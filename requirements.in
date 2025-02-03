@@ -21,3 +21,4 @@ ruff
 pre-commit
 pytest
 duckdb
+streamlit_chromadb_connection
